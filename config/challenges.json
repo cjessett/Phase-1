@@ -117,7 +117,6 @@
     ],
     "tuesday": [
       "student-roster-db-from-schema-challenge",
-      "prepared-statements-challenge",
       "address-book-db-from-schema-challenge",
       "activerecord-jr-1-a-basic-orm-challenge",
       "many-to-many-schema-to-database-challenge",
