@@ -7,12 +7,12 @@ These resources are also linked from individual challenges.  If you find a resou
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
 - [Enumerable](http://ruby-doc.org/core-1.9.3/Enumerable.html)
-- [Most-Commonly Used Enumerable Methods][./resources/most-frequently-used-enumerables.md]
+- [Most-Commonly Used Enumerable Methods](most-frequently-used-enumerables.md)
 
 ###Data
 
 - [Primitive Data Types](http://en.wikipedia.org/wiki/Primitive_data_type)
-- [Variable scoping](./resources/variable_scoping.md)
+- [Variable scoping](variable_scoping.md)
 
 ### Regular Expressions
 
