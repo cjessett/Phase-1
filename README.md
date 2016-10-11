@@ -46,35 +46,35 @@ Find your weekly groups [here](./resources/groups.md).
 ## Weekly Cadence
 
 - Yoga:
-  - Classes available 11:45am - 12:30pm Tuesday through Thursday
+  - Classes available 12:45am - 1:30pm Tuesday through Thursday
 - Conversation: Being a student at DBC
-  - Week 1 Friday, 4:00 PM
-- Engineering Empathy (EE): Tuesday at 10am
+  - Week 1 Friday, 5:00 PM
+- Engineering Empathy (EE): Tuesday at 11am
   - Week 1 - The Empathic Team
-  - Week 1 - Introverts & Extroverts, Friday at 9:15am
+  - Week 1 - Introverts & Extroverts, Friday at 10:15am
   - Week 2 - The Inner Critic
   - Week 3 - Empathy and Authenticity
 - Careers:
   - Week 2 & 3: 1:1s with students (you must [sign up](http://bit.ly/24KtYGE) for a slot!)
 - Cohort Fun Activities:
-  - Improv Experience: Week 2, Tuesday at 6pm
+  - Improv Experience: Week 2, Tuesday at 7pm
 - Assessment:
-  - Challenge: Week 3, Wednesday — 8:15am to 11:45am
-  - Code Review: 20 minute blocks starting 1:10pm
+  - Challenge: Week 3, Wednesday — 9:15am to 12:45am
+  - Code Review: 20 minute blocks starting 2:10pm
 
 ## Daily Cadence
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
+8:45am  | Check in with accountability buddies
+9:00am  | Morning Announcements
+9:05am  | Daily Progress Checkin (or following yoga at 9:10am)
+9:25am  | Challenges/Breakouts
+12:30am | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Challenges/Breakouts
+6:00pm  | End of core hours
+6:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
