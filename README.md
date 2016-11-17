@@ -55,7 +55,7 @@ Find your weekly groups [here](./resources/groups.md).
   - Week 2 - The Inner Critic
   - Week 3 - Empathy and Authenticity
 - Careers:
-  - Week 2 & 3: 1:1s with students (you must [sign up](http://bit.ly/24KtYGE) for a slot!)
+  - Week 2 & 3: 1:1s with students (please be on the look out for an e-mail from your Careers Team)
 - Cohort Fun Activities:
   - Improv Experience: Week 2, Tuesday at 7pm
 - Assessment:
