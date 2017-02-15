@@ -76,6 +76,26 @@ Time    | Activity
 6:00pm  | End of core hours
 6:00pm  | After hours learning/mentoring/solo time
 
+## Staff Contact Info
+
+### Teachers (and their GitHubs)
+Alyssa Diaz / @alycit - alyssa@devbootcamp.com    
+Duke Greene / @dukegreene - duke@devbootcamp.com  
+Ellie Poley / @stellanor - ellie.poley@devbootcamp.com  
+Avner Shanan / @ashanan - avner.shanan@devbootcamp.com  
+Pete Macaluso / @pmacaluso3 - peter.macaluso@devbootcamp.com  
+
+### Campus Director
+Kelly Arwine - kelly.arwine@devbootcamp.com  
+
+### Careers Developers
+Molly Owens - molly.owens@devbootcamp.com  
+Katy Martin - katy.martin@devbootcamp.com  
+Rachel Feigenbaum - rachel@devbootcamp.com  
+
+### Marketing
+Naomi David - naomi.david@devbootcamp.com  
+
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
