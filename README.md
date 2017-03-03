@@ -45,8 +45,11 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga:
-  - Classes available 12:45am - 1:30pm Tuesday through Thursday
+- General Pairing Expectations
+  - Mon-Wed: Pair with a new person in your pairing group
+  - Thu: Optional solo day, pairing also ok
+  - Fri: Team project with entire pairing group
+  - Outside core hours, pair, solo, or group up as you choose to maximize your learning
 - Conversation: Being a student at DBC
   - Week 1 Friday, 5:00 PM
 - Engineering Empathy (EE): Tuesday at 11am
