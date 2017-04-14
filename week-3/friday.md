@@ -1,7 +1,8 @@
 ## Friday
+### Group Project with Active Record
 
 ### Core
 
 **Challenges**
 
-- [Active Record Todo's 1](../../../../active-record-todos-challenge) - Group Project
+- [Active Record Legislators](../../../../active-record-legislators-challenge) - Group Project

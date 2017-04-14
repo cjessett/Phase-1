@@ -3,11 +3,14 @@
 
 ### Core
 
+- _90 minutes before lunch_: EE: "The Empathic Team"
+
 **Challenges**
 
 - [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
 - [Address Book DB from Schema](../../../../address-book-db-from-schema-challenge)
-- [Active Record Jr. Part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
+- [Active Record Jr. Part 1](../../../../activerecord-jr-1-a-basic-orm-challenge) 
+  **If you aren't able to finish this challenge today, we highly recommend circling back on the weekend to complete it.*  
 
 **Prep for Tomorrow**
 

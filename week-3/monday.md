@@ -1,5 +1,8 @@
 ## Monday
+
 ### Schema Design and Intro to SQL
+
+_Careers Preparation: This week's topic is: **Personal Narrative / Résumés**_
 
 ### Core
 
