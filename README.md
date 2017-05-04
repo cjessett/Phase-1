@@ -53,12 +53,14 @@ Find your weekly groups [here](./resources/groups.md).
 - Conversation: Being a student at DBC
   - Week 1 Friday, 5:00 PM
 - Engineering Empathy (EE): Tuesday at 11am
-  - Week 1 - The Empathic Team
-  - Week 1 - Introverts & Extroverts, Friday at 10:15am
-  - Week 2 - The Inner Critic
-  - Week 3 - Empathy and Authenticity
+  - Week 1 - Feedback and Pairing
+  - Week 1 - Introverts & Extroverts, Friday
+  - Week 2 - Resiliency & The Inner Critic
+  - Week 3 - The Empathetic Team
 - Careers:
-  - Week 2 & 3: 1:1s with students (please be on the look out for an e-mail from your Careers Team)
+  - Week 1 Tuesday at 2pm : Intro to Careers
+  - Week 2 Thursday from 12:30-1pm : Tech Landscape Talk
+  - Week 3 Thursday from 12:30-2pm : Personal Narrative / Resume (*lunch will be provided!*)
 - Cohort Fun Activities:
   - Improv Experience: Week 2, Tuesday at 7pm
 - Assessment:
