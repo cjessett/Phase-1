@@ -60,7 +60,7 @@ Find your weekly groups [here](./resources/groups.md).
 - Careers:
   - Week 1 Tuesday at 2pm : Intro to Careers
   - Week 2 Thursday from 12:30-1pm : Tech Landscape Talk
-  - Week 3 Thursday from 12:30-2pm : Personal Narrative / Resume (*lunch will be provided!*)
+  - Week 3 Thursday from 12:30-1:30pm : Personal Narrative / Resume (*lunch will be provided!*)
 - Cohort Fun Activities:
   - Improv Experience: Week 2, Tuesday at 7pm
 - Assessment:
