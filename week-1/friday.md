@@ -4,6 +4,7 @@
 ### Core
 
 - _Morning_: EE: "Introvert / Extrovert"
+- _Afternoon_: Discussion: "On Being A Student at Dev Bootcamp"
 
 **Challenges**
 
