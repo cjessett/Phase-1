@@ -86,9 +86,8 @@ Time    | Activity
 ### Teachers (and their GitHubs)
 Alyssa Diaz / @alycit - alyssa@devbootcamp.com    
 Duke Greene / @dukegreene - duke@devbootcamp.com  
-Ellie Poley / @stellanor - ellie.poley@devbootcamp.com  
 Avner Shanan / @ashanan - avner.shanan@devbootcamp.com  
-Pete Macaluso / @pmacaluso3 - peter.macaluso@devbootcamp.com  
+Graham Troyer-Joy / @telegraham
 
 ### Campus Director
 Kelly Arwine - kelly.arwine@devbootcamp.com  
@@ -106,7 +105,6 @@ Naomi David - naomi.david@devbootcamp.com
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
-- [Counseling Session Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
