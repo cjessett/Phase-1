@@ -87,7 +87,7 @@ Time    | Activity
 Alyssa Diaz / @alycit - alyssa@devbootcamp.com    
 Duke Greene / @dukegreene - duke@devbootcamp.com  
 Avner Shanan / @ashanan - avner.shanan@devbootcamp.com  
-Graham Troyer-Joy / @telegraham
+Graham Troyer-Joy / @telegraham - graham.troyerjoy@devbootcamp.com
 
 ### Campus Director
 Kelly Arwine - kelly.arwine@devbootcamp.com  
