@@ -62,7 +62,7 @@ Find your weekly groups [here](./resources/groups.md).
   - Week 2 Thursday from 12:30-1pm : Tech Landscape Talk
   - Week 3 Thursday from 12:30-1:30pm : Personal Narrative / Resume (*lunch will be provided!*)
 - Cohort Fun Activities:
-  - Improv Experience: Week 2, Tuesday at 7pm
+  - Improv Experience: Week 2, Tuesday at 7pm **(Mandatory)**
 - Assessment:
   - Challenge: Week 3, Wednesday — 9:15am to 12:45am
   - Code Review: 20 minute blocks starting 2:10pm
