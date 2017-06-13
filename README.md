@@ -102,6 +102,7 @@ Naomi David - naomi.david@devbootcamp.com
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
+- [Cohort Calendar](https://www.google.com/calendar/embed?src=ZGV2Ym9vdGNhbXAuY29tX3EwYTE4YzhoNGdxMnVnMTJvdXJ2azl1OGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
